@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZViHHOp8kA=",
+  "success": true,
+  "projectFilePath": "/app/dotnet-presentation/godot-game-csharp/GodotCSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/godot.sourcegenerators/4.4.0/godot.sourcegenerators.4.4.0.nupkg.sha512",
+    "/root/.nuget/packages/godotsharp/4.4.0/godotsharp.4.4.0.nupkg.sha512",
+    "/root/.nuget/packages/godotsharpeditor/4.4.0/godotsharpeditor.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
